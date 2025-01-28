@@ -7,3 +7,4 @@ Convert Julia notebooks from course CMU16-745 (Spring 2024) to Python.
 * numpy
 * matplotlib
 * pydrake
+* JAX
