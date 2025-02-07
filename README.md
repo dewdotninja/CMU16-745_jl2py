@@ -1,6 +1,6 @@
 # CMU16-745_jl2py
 
-Convert Julia notebooks from course CMU16-745 (Spring 2024) to Python. 
+Convert Julia notebooks from course CMU16-745 (Spring 2024, 2025) to Python. 
 
 #### Packages used.
 
